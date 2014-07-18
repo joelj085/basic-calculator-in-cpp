@@ -1,5 +1,4 @@
-#include <iostream> /* Is a section of C++ Standard Library. Consisting of 
-a collection of classes and functions */
+#include <iostream> 
 
 using namespace std;
 
